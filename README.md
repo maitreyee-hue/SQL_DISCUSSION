@@ -12,7 +12,7 @@ skill varchar(20)
 insert into students values
 (1,'sql'),(1,'python'),(1,'tableau'),(2,'sql'),(3,'sql'),(3,'python'),(4,'tableau'),(5,'python'),(5,'tableau')
 
-this is table given for students with their subject and values. We have to find only those students who have skills of python and sql only. If any student has 3 skills that also should not taken into consideration
+We need to identify students who possess skills in both Python and SQL. Students with three skills should not be considered in this context.
 
 My own solution:
 
